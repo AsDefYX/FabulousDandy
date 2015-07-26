@@ -16,6 +16,7 @@ public class FabulousDandy {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // ey du waschlappen
         System.out.println("greger");
         System.out.println("sureMax");
         // DEGERDEGER
